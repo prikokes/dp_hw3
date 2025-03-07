@@ -59,6 +59,7 @@ sudo -i -u hadoop
 Затем скачиваем hive и драйвер к postgresql
 ``` 
 wget https://archive.apache.org/dist/hive/hive-4.0.0-alpha-2/apache-hive-4.0.0-alpha-2-bin.tar.gz
+cd apache-hive-4.0.0-alpha-2-bin/lib
 wget https://jdbc.postgresql.org/download/postgresql-42.7.4.jar
 ```
 
