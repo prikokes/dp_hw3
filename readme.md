@@ -145,5 +145,5 @@ hive --hiveconf hive.server2.enable.doAs=false --hiveconf hive.security.authoriz
 
 Запускаем консоль beeline:
 ``` 
-beeline -u jdbc:hive2://team-4-jn:5433
+beeline -u jdbc:hive2://tmpl-jn:5433
 ```
